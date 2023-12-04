@@ -1,0 +1,4 @@
+[1] Movie Recommendation Engine using Collaborative Filtering, GitHub repository, Availbale: https://github.com/Uttkarsh14/Movie-Recommendation-Engine
+[2] RecTools, GitHub, Available: https://github.com/MobileTeleSystems/RecTools/tree/main
+[3] RecTools – OpenSource библиотека для рекомендательных систем, Habr [RU], Available: https://habr.com/ru/articles/773126/
+[4] Learning Deep Structured Semantic Models for Web Search using Clickthrough Data, Microsoft, Available: https://www.microsoft.com/en-us/research/publication/learning-deep-structured-semantic-models-for-web-search-using-clickthrough-data/
